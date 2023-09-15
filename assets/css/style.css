@@ -29,6 +29,14 @@ body{
 /*----------BIANCA----------------------------------*/
 /* BIANCA: contato responsivo */
 
+#tudo1 {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60%;
+    margin-bottom: 7%;
+    width: 991px;
+}
+
 #botao-contato1:hover {
   cursor: pointer;
   color: #57382D;
