@@ -1218,14 +1218,14 @@ h3 {
 
 }
 
-@media screen and (min-width: 350px) and (max-width:  479px){
+@media screen and (min-width: 330px) and (max-width:  479px){
 .mais-receitas-torta {
   background: white;
   color: rgb(253, 154, 170);
   font-size: 42px;
   padding: 2px 14px;
   border-radius: 83px;
-  left: 51%;
+  left: 49%;
   top: 7%;
   position: relative;
   font-weight: 700;
