@@ -71,6 +71,7 @@ align-items: center;
 }
 
 
+
 #main-contato1 {
   margin: 0 20%;
 }
@@ -89,9 +90,10 @@ align-items: center;
 
 #frase2 {
   color: #5D3028;
-  width: 350px;
+  width: 100%;
+  max-width: 700px
   margin-bottom: 40px;
-  text-align: justify; 
+  text-align: center; 
 }
 
 #contato1 p{
@@ -123,6 +125,15 @@ margin-bottom: 40px;
     width: 100%;
     max-width: 310px;
    }
+  
+  #frase2 {
+  color: #5D3028;
+  width: 100%;
+  max-width: 700px
+  margin-bottom: 40px;
+  text-align: justify; 
+}
+  
 }
 
 @media (min-width: 800px) {
@@ -1220,6 +1231,12 @@ h3 {
   font-weight: 700;
 }
 
+  #contato1{
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 0 22% 0;
+}
+  
 
 #grad-topo-receita {
  
