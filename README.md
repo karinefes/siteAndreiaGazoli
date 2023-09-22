@@ -1,4 +1,4 @@
-<h1 align="center">Site de confeitaria Andreia Gazoli</h1>
+<h1 align="center"> :cake: Site de confeitaria Andreia Gazoli :cake: </h1>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karinefes/siteAndreiaGazoli">
@@ -20,7 +20,7 @@
   <a href="#ancora1">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#ancora2">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#ancora3">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#ancora4">Colaboradores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#ancora4">Colaboradores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
 
 <a id="ancora1"></a>
@@ -31,3 +31,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS3
 - Javascript
 - jquery (para o banner principal)
+
+  
