@@ -6,12 +6,12 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/karinefes/projeto-1-soulcode">
 
-  <a href="https://github.com/alvaroaxsmith/projeto-1-soulcode/main">
+  <a href="https://github.com/alvaroaxsmith/karinefes/siteAndreiaGazoli">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/karinefes/projeto-1-soulcode">
   </a>
 
-  <a href="https://github.com/alvaroaxsmith/projeto-1-soulcode/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/karinefes/projeto-1-soulcode">
+  <a href="https://github.com/karinefes/siteAndreiaGazoli/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/karinefes/siteAndreiaGazoli">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
