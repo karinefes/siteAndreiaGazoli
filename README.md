@@ -2,7 +2,7 @@
 <p>Site foi desenvolvido durante o curso de desenvolvimento front end no Senac SP</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karinefes/projeto-1-soulcode">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karinefes/siteAndreiaGazoli">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/karinefes/projeto-1-soulcode">
 
