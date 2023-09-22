@@ -1,4 +1,4 @@
-<h1 align="center"> :cake: Site de confeitaria Andreia Gazoli :cake: </h1>
+<h1 align="center"> :cake: Site de confeitaria Andreia Gazoli </h1>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karinefes/siteAndreiaGazoli">
@@ -30,6 +30,22 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML5
 - CSS3
 - Javascript
-- jquery (para o banner principal)
+- jquery ( apenas para o banner principal)
 
+<a id="ancora2"></a>
+## 💻 Projeto
+O projeto foi elaborado como projeto final do curso de desenvolvimento front end no SENAC SP. A proposta foi construir um site para um cliente real atendendo seus pedidos, utilizando apenas HTML, CSS e Javascript, sem a utilização de bibliotecas.
+
+<strong>Link para o site do projeto: https://karinefes.github.io/siteAndreiaGazoli/index.html</strong>
+
+<a id="ancora3"></a>
+## :framed_picture: Imagens do Site
+
+
+  <a id="ancora4"></a>
+## :busts_in_silhouette: Colaboradores
+
+- [Karine Fernandes](https://github.com/karinefes)
+- [Bianca](https://github.com/bcpp23)
+- [Gustavo](https://github.com/GustavoArcure)
   
