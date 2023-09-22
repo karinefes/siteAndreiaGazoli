@@ -4,10 +4,10 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karinefes/siteAndreiaGazoli">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/karinefes/projeto-1-soulcode">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/karinefes/siteAndreiaGazoli">
 
   <a href="https://github.com/alvaroaxsmith/karinefes/siteAndreiaGazoli">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/karinefes/projeto-1-soulcode">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/karinefes/siteAndreiaGazoli">
   </a>
 
   <a href="https://github.com/karinefes/siteAndreiaGazoli/issues">
