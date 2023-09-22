@@ -1,5 +1,4 @@
 <h1 align="center">Site de confeitaria Andreia Gazoli</h1>
-<p>Site foi desenvolvido durante o curso de desenvolvimento front end no Senac SP</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karinefes/siteAndreiaGazoli">
@@ -16,3 +15,19 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
+
+<p align="center">
+  <a href="#ancora1">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#ancora2">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#ancora3">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#ancora4">Colaboradores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<a id="ancora1"></a>
+## :rocket: Tecnologias 
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+- HTML5
+- CSS3
+- Javascript
+- jquery (para o banner principal)
