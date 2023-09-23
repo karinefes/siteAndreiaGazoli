@@ -44,7 +44,7 @@ O projeto foi elaborado como projeto final do curso de desenvolvimento front end
 
 | Home(desktop)  | Planos(desktop) | Localização(desktop) | 
 |---|---|---|
-| ![Home](https://raw.githubusercontent.com/iteAndreiaGazoli/blob/main/img-Readme/home-desktop.png)  | ![Planos](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-planos.jpeg)  | ![Localizacao](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-localizacao.jpeg)  | 
+| ![Home](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/home-desktop.png)  | ![Planos](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-planos.jpeg)  | ![Localizacao](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-localizacao.jpeg)  | 
 
 | Home(tablet)  | Planos(tablet) | Localização(tablet) | 
 |---|---|---|
