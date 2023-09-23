@@ -46,13 +46,13 @@ O projeto foi elaborado como projeto final do curso de desenvolvimento front end
 |---|---|---|
 | ![Home](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/home-desktop.png)  | ![Bolos e tortas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/Bolos-e-tortas-desktop.png)  | ![Receitas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receitas-desktop.png)  | 
 
-| Home(tablet)  | Planos(tablet) | Localização(tablet) | 
+| Receitas(desktop)  | Planos(tablet) | Localização(tablet) | 
 |---|---|---|
-| ![Home](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/tablet-home.jpeg)  | ![Planos](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/tablet-planos.jpeg)  | ![Localizacao](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/tablet-localizacao.jpeg)  | 
+| ![Receitas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receitas-aberta-desktop.png)  | ![Receita](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receita-bolo-choc-desktop.png)  | ![Curso](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/curso-desktop.png)  | 
 
-| Home(cel)  | Planos(cel) | Localização(cel) | 
+| Contato(desktop)  | 
 |---|---|---|
-| ![Home](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/cel-home.jpeg)  | ![Planos](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/cel-planos.jpeg)  | ![Localizacao](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/cel-localizacao.jpeg)  | 
+| ![Contato](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/curso-desktop.png)  | 
 
 
 
