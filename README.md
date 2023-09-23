@@ -42,6 +42,21 @@ O projeto foi elaborado como projeto final do curso de desenvolvimento front end
 ## :framed_picture: Imagens do Site
 
 
+| Home(desktop)  | Planos(desktop) | Localização(desktop) | 
+|---|---|---|
+| ![Home](https://raw.githubusercontent.com/iteAndreiaGazoli/blob/main/img-Readme/home-desktop.png)  | ![Planos](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-planos.jpeg)  | ![Localizacao](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-localizacao.jpeg)  | 
+
+| Home(tablet)  | Planos(tablet) | Localização(tablet) | 
+|---|---|---|
+| ![Home](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/tablet-home.jpeg)  | ![Planos](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/tablet-planos.jpeg)  | ![Localizacao](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/tablet-localizacao.jpeg)  | 
+
+| Home(cel)  | Planos(cel) | Localização(cel) | 
+|---|---|---|
+| ![Home](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/cel-home.jpeg)  | ![Planos](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/cel-planos.jpeg)  | ![Localizacao](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/cel-localizacao.jpeg)  | 
+
+
+
+
   <a id="ancora4"></a>
 ## :busts_in_silhouette: Colaboradores
 
