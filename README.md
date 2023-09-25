@@ -42,7 +42,20 @@ O projeto foi elaborado como projeto final do curso de desenvolvimento front end
 ## :framed_picture: Imagens do Site
 
 
-| Home(desktop)  | Planos(desktop) | Localização(desktop) | 
+| Home(desktop)  | Bolos e tortas (desktop) | Receitas(desktop) | 
+|---|---|---|
+| ![Home](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/home-desktop.png)  | ![Bolos e tortas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/Bolos-e-tortas-desktop.png)  | ![Receitas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receitas-desktop.png)  | 
+
+| Receitas(desktop)  | receita(desktop) | Curso(desktop) | 
+|---|---|---|
+| ![Receitas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receitas-aberta-desktop.png)  | ![Receita](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receita-bolo-choc-desktop.png)  | ![Curso](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/curso-desktop.png)  | 
+
+| Contato(desktop)  | 
+|---|
+| ![Contato](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/curso-desktop.png)  | 
+
+
+| Home(mobile)  | Bolos e tortas (mobile) | Receitas(mobile) | 
 |---|---|---|
 | ![Home](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/home-desktop.png)  | ![Bolos e tortas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/Bolos-e-tortas-desktop.png)  | ![Receitas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receitas-desktop.png)  | 
 
@@ -51,8 +64,8 @@ O projeto foi elaborado como projeto final do curso de desenvolvimento front end
 | ![Receitas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receitas-aberta-desktop.png)  | ![Receita](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receita-bolo-choc-desktop.png)  | ![Curso](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/curso-desktop.png)  | 
 
 | Contato(desktop)  | 
-|---|---|---|
-| ![Contato](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/curso-desktop.png)  | 
+|---|
+| ![Contato](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/curso-desktop.png)  |
 
 
 
