@@ -57,15 +57,12 @@ O projeto foi elaborado como projeto final do curso de desenvolvimento front end
 
 | Home(mobile)  | Bolos e tortas (mobile) | Receitas(mobile) | 
 |---|---|---|
-| ![Home](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/home-desktop.png)  | ![Bolos e tortas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/Bolos-e-tortas-desktop.png)  | ![Receitas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receitas-desktop.png)  | 
+| ![Home](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/index-mobile.png)  | ![Bolos e tortas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/Bolos-e-tortas.png)  | ![Receitas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receitas-mobile.png)  | 
 
-| Receitas(desktop)  | Planos(tablet) | Localização(tablet) | 
+| Receitas(mobile)  | Contato(mobile) | Curso(mobile) | 
 |---|---|---|
-| ![Receitas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receitas-aberta-desktop.png)  | ![Receita](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receita-bolo-choc-desktop.png)  | ![Curso](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/curso-desktop.png)  | 
+| ![Receitas](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/receitas-aberta-mobile.png)  | ![Contato](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/contato-mobile.png)  | ![Curso](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/curso-mobile.png)  | 
 
-| Contato(desktop)  | 
-|---|
-| ![Contato](https://github.com/karinefes/siteAndreiaGazoli/blob/main/img-Readme/curso-desktop.png)  |
 
 
 
